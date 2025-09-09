@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Par ou Impar", "ParImpar\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maior Numero", "MaiorNumero\Maior Numero.csproj", "{921EE3CB-C3B2-4074-A047-3C955E24052C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{383F88BB-8CDA-4AD2-A50C-192D23AA7ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada", "Tabuada\Tabuada.csproj", "{383F88BB-8CDA-4AD2-A50C-192D23AA7ED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contagem Regressiva", "Contagem Regressiva\Contagem Regressiva.csproj", "{5E08F2F2-30F5-4011-9288-156A15EAB809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contagem Regressiva", "Contagem Regressiva\Contagem Regressiva.csproj", "{5E08F2F2-30F5-4011-9288-156A15EAB809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma", "Soma\Soma.csproj", "{AE201132-872A-45E1-8265-B0AA26439E5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soma", "Soma\Soma.csproj", "{AE201132-872A-45E1-8265-B0AA26439E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverter String", "Inverter String\Inverter String.csproj", "{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inverter String", "Inverter String\Inverter String.csproj", "{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinhaNumero", "AdivinhaNumero\AdivinhaNumero.csproj", "{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
