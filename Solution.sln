@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soma", "Soma\Soma.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inverter String", "Inverter String\Inverter String.csproj", "{4F0C9E98-694E-45F6-BD96-75A2BC33E65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinhaNumero", "AdivinhaNumero\AdivinhaNumero.csproj", "{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdivinhaNumero", "AdivinhaNumero\AdivinhaNumero.csproj", "{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valendonota", "valendonota\valendonota.csproj", "{AC78FBFF-1402-476F-86ED-030F805036A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAF11800-067C-4A89-A6F2-EBD4FDEE402F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC78FBFF-1402-476F-86ED-030F805036A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC78FBFF-1402-476F-86ED-030F805036A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC78FBFF-1402-476F-86ED-030F805036A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC78FBFF-1402-476F-86ED-030F805036A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

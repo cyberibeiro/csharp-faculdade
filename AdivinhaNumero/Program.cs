@@ -12,7 +12,7 @@ while (number != num)
     if (number > num)
     {
         Console.WriteLine($"\nO {number} é maior que o número aleatório, tente novamente!");
-            
+            return;
     }
     else if (number > num)
     {
@@ -25,8 +25,8 @@ while (number != num)
 }
 
 
-Console.ReadKey();
 
+Console.ReadKey();
 
 #region (Outra forma)
 //var numberAleatorio = new Randon();
